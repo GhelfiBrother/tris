@@ -1,2 +1,4 @@
 # tris
-A simple Tris implementation in cpp
+A simple Tris implementation in cpp.
+
+
